@@ -8,4 +8,4 @@ data = {
 
 df = pd.DataFrame(data)
 
-df.to_csv('sample.csv')
+df.to_csv('data/sample.csv')
